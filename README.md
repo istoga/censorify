@@ -1,0 +1,1 @@
+This is a practice application as part of my training to become a full stack engineer using node.
